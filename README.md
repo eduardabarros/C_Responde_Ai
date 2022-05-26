@@ -1,2 +1,2 @@
-# C_Responde_Ai
-Exercícios de C do Responde Aí
+# cpp_responde_ai
+Exercícios de C++ do Responde Aí
