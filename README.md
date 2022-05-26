@@ -1,2 +1,2 @@
 # cpp_responde_ai
-Exercícios de C++ do Responde Aí
+Exemplos e exercícios de C++ do Responde Aí
