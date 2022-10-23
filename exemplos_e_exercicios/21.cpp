@@ -15,5 +15,5 @@
 	
 	}
 	
-	// Fonte: Responde Aí - Exercícios
+	// Fonte: Responde Aí - Memória e Modificadores
 	// O valor utilizado ultrapassa a capacidade de armazenamento de uma variável int. Seria recomendado utilizar um unsigned int que comporta valores de 0 até 4,294,967,295.
