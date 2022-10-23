@@ -19,5 +19,5 @@
 	
 	}
 	
-	// Fonte: Responde Aí - Exercício
+	// Fonte: Responde Aí - Entrada e Saída de Dados
 	// Utilização da função chair
