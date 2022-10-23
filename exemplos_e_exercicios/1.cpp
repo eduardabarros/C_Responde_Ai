@@ -10,7 +10,7 @@ int main() // a função main: função principal do programa e ela diz onde o s
      
      cout <<"Olá, Mundo!" << endl;
      
-     // count: função que escreve textos na tela. Se pronuncia "cê out" e significa "console output".
+    // count: função que escreve textos na tela. Se pronuncia "cê out" e significa "console output".
      
     // o símbolo << é o operador de inserção. 
     
@@ -22,4 +22,4 @@ int main() // a função main: função principal do programa e ela diz onde o s
      
      // O C++ padrão não aceita acentos. Mas esse aceitou e imprimiu direitinho aqui no meu pc.
      
-     // Fonte: Responde Ai - Exemplo
+     // Fonte: Responde Ai - Introdução ao C++
