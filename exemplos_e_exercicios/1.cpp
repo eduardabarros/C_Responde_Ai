@@ -22,4 +22,4 @@ int main() // a função main: função principal do programa e ela diz onde o s
      
      // O C++ padrão não aceita acentos. Mas esse aceitou e imprimiu direitinho aqui no meu pc.
      
-     // Fonte: Responde Ai - Introdução ao C++
+     // Fonte: Responde Ai - Introdução ao C++ 
