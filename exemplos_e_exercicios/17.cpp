@@ -17,4 +17,4 @@
 	}
 	
 	// Exemplo que mostra onde a variável esta armazenada
-	// Fonte: Responde Aí - Exemplo
+	// Fonte: Responde Aí - Memória e Modificadores
