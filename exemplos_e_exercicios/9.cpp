@@ -25,4 +25,4 @@
 	
 	// Outra forma de escrever este código seria nos programas 10 e 11
 	
-	// Fonte: Responde Ai
+	// Fonte: Responde Aí - Variável e Tipos Básicos
