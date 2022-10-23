@@ -19,5 +19,5 @@
 	
 	}
 	
-	// Fonte: Responde Aí - Exercícios
+	// Fonte: Responde Aí - Memória e Modificadores
 	// As variáveis estão em ordem crescente de memória ocupada.
