@@ -15,5 +15,5 @@
 
 	}
 	
-	// Fonte: Responde Aí - Exemplos
+	// Fonte: Responde Aí - Entrada e Saída de Dados
 	// Mostra a utilizada do \n e \t
