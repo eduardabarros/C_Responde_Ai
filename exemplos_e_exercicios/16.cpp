@@ -21,4 +21,4 @@
 	// fat_estatico = u_estatico * N
 	// fat _dinamico = u_dinamico * N
 	
-	// Fonte: Responde Aí - Exercícios
+	// Fonte: Responde Aí - Variável e Tipos Básicos
