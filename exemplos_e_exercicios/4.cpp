@@ -13,4 +13,4 @@
 	
 	}
 	
-	// Fonte: Rsponde Ai - Introduç
+	// Fonte: Rsponde Ai - Introdução ao C++
