@@ -16,4 +16,4 @@
 	}
 	
 	
-        // Fonte: Responde Ai - Introduç
+        // Fonte: Responde Ai
