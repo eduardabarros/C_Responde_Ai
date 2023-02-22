@@ -17,5 +17,5 @@
 	}
 	
 	// Fonte: Responde Aí - Exemplo
-	// Conversão de tipo d euma variável em outra
+	// Conversão de tipo de uma variável em outra
 	// Não é recomendado usar o static_cast para valores muito grandes que podem exceder o limite aceitável para a variável que será usada.
