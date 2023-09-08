@@ -1,30 +1,24 @@
 
-	# include <iostream>
-	# include <cmath>
+	#include <iostream>
 	using namespace std;
 	
-	// Funções são sub rotinas de um programa,
-	// onde você escreve um código que poderá ser reutilizado
-	// ao longo do programa sem precisar ficar repetindo.
+	int soma()
 	
-	int soma ()
-	
-	{  int num_1, num_2;
-	   cout << "\n\tDigite um número: ";
-	   cin >> num_1;
-	   cout << "\tDigite outro número: ";
-	   cin >> num_2;
-	
-	   return num_1 + num_2;
-	}
-	
-	int main ()
-	
-	{  int valor;
-	   valor = soma ();
-	   cout << endl << "\tO valor da soma é: " << valor << endl << endl;
-	   
-	   return 0;  
-	}
-	
-	// Fonte: Responde Aí - Introdução às Funções
+	{
+		int num_1, num_2;
+		cout << "\n\t Digite um numero: ";
+		cin >> num_1;
+		cout << "\t Digite outro numero: ";
+		cin >> num_2;
+		return num_1 + num_2;
+	 }
+	 
+	 int main()
+	 
+	 {
+	 	int valor;
+	 	valor = soma();
+	 	cout << "\t O valor da soma e: " << valor << endl << endl ;
+	 	return 0;
+	  }
+		
